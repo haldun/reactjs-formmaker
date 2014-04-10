@@ -1,4 +1,4 @@
 reactjs-formmaker
 =================
 
-Experiments with reacts
+Experiments with reactjs
